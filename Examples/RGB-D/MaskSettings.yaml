@@ -1,0 +1,6 @@
+%YAML:1.0
+py_path: "./src/python/"
+module_name: "Yolact_SLAM"
+class_name: "Mask"
+get_dyn_seg: "GetDynSeg"
+showimage: "showimage"
